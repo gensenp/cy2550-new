@@ -26,3 +26,10 @@ cperez:2000
 west35:Utopia        
 uking:lauren5          
 ssmith:Robotics5       
+jschuster:qwerty123
+lschade:frenzy
+mklein:diamant
+rhernandez:scofield
+jmartinez:Richelle
+xgreen:lavalamp8
+jordan36:k3tchup
