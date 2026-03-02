@@ -1,28 +1,28 @@
-batman           (jtanaka)
-ferrari          (simmons19)
-password         (hherzog)
-enter            (hughes15)
-whatever         (wells50)
-internet         (vhill)
-gandalf          (ahuber)
-thomas           (snyder2)
-hockey           (barnes6)
-purple           (fdupont)
-sparky           (shofer)
-football         (erodriguez)
-golfer           (bgruber)
-tigger           (ahofmann)
-cheese           (kkoch)
-cowboys          (bennett4)
-yankees          (mfrank)
-yellow           (srivera)
-picasso          (avogel)
-gateway          (jvogel)
-marine           (mtorres)
-christmas        (slange)
-123qwe           (myers28)
-qwertyuiop       (shahn)
-2000             (cperez)
-Utopia           (west35)
-lauren5          (uking)
-Robotics5        (ssmith)
+batman:jtanaka
+simmons19:ferrari
+hherzog:password
+hughes15:enter
+wells50:whatever
+vhill:internet
+ahuber:gandalf
+snyder2:thomas
+barnes6:hockey
+fdupont:purple
+shofer:sparky
+erodriguez:football
+bgruber:golfer
+ahofmann:tigger
+kkoch:cheese
+bennett4:cheese
+mfrank:yankees
+srivera:yellow
+avogel:picasso
+jvogel:gateway
+mtorres:marine
+slange:christmas
+myers28:123que
+shahn:qwertyuiop
+cperez:2000  
+west35:Utopia        
+uking:lauren5          
+ssmith:Robotics5       
